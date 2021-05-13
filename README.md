@@ -36,6 +36,17 @@ curl https://api.issteven.xyz/what
 }
 ```
 
+## Why `isSteven`?
+Meet the team behind this ridiculous 2 week project
+### Input
+```bash
+curl https://api.issteven.xyz/us
+```
+
+### Output
+A message from the team behind `isSteven`.
+
+
 # Contributors
 - [Jia Chen](https://github.com/jiachenyee)
 - [Faisal](https://github.com/faisalsgithub)
