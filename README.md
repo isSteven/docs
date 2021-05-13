@@ -19,7 +19,7 @@ curl --header "Content-Type: application/json" \
 }
 ```
 
-## What `isSteven`
+## What `isSteven`?
 What `isSteven` outputs an image of Steven
 
 ### Input
